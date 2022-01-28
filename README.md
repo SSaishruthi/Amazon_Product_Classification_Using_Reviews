@@ -1,4 +1,4 @@
-# Amazon Product Classification_Using Reviews
+# Amazon Product Classification Using Reviews
 
 Dataset used - [Amazon review data - UCSD dataset](https://jmcauley.ucsd.edu/data/amazon/)
 
